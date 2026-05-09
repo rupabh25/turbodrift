@@ -111,15 +111,18 @@ Passwords are securely hashed before being stored in the database.
 
 ### 🔑 Login Page
 
-*Add screenshot here*
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/2892a69a-02dc-4adb-8839-5fdb7cd5cdc9" />
+
 
 ### 🚘 Prediction Dashboard
 
-*Add screenshot here*
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/fe94ae95-7126-4245-838e-842be2e86743" />
+
 
 ### 💰 Predicted Price Output
 
-*Add screenshot here*
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/e8239466-cf8a-482d-becc-618c5b0b34e3" />
+
 
 ---
 
